@@ -9,7 +9,7 @@ source .venv/bin/activate
 To install required libraries:
 pip install -r requirements.txt
 
-Create .env file
+Create file called ".env"
 If using OpenAI:
 Set OPENAI_API_KEY to your API key
 
